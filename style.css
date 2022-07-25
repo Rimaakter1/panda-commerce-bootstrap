@@ -1,0 +1,18 @@
+.background-color {
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.btn-color {
+
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border: #FF589B;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.price-color {
+    color: #FF589B;
+    font-weight: bold;
+}
